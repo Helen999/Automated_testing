@@ -26,8 +26,6 @@ namespace Part1.Task2
                 sum = sum + array[i];
             }
             Console.WriteLine("The sum of numbers on even indexes is: " + sum);
-
-            Console.WriteLine();
         }
     }
 }
