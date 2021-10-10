@@ -4,6 +4,7 @@ namespace Part1.Task2
 {
     class Program
     {
+        //В массиве целых чисел определить сумму элементов, состоящих на чётных позициях.
         static void Main(string[] args)
         {
             int[] array = new int[20];
